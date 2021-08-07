@@ -1,6 +1,4 @@
-from tkinter import *
-from fn import *
-
+from olistic_docker_admin.fn import *
 
 class Show:
 
